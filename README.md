@@ -1,9 +1,9 @@
 - 👋 Hemnllo, I’m @NDiMC
-- 👀 I’m interested in Web Develop and Laravel (a bit)
-- 🌱 I’m currently learning Web Develop ( Full-Stack )
+- 👀 I’m interested in Web Development and Laravel (a bit)
+- 🌱 I’m currently learning Web Developement ( Full-Stack )
 - 🏠 I'm live in Indonesia
 - 📫 How to reach me ;
-  IG : @none.iss
+  IG : @sixthacl
 
 <!---
 NDiMC/NDiMC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
